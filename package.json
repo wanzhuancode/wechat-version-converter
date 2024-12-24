@@ -1,0 +1,11 @@
+{
+  "name": "wechat-version-converter",
+  "version": "1.0.0",
+  "description": "WeChat version number converter",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
